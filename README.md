@@ -17,7 +17,8 @@
 
 ### Tech Stack
 
-* 💻&#160; ![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey) ![Linux](https://img.shields.io/badge/-Linux-orange) ![Python](https://img.shields.io/badge/-Pyhton-blue)
+* 💻&#160; ![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey) ![Linux](https://img.shields.io/badge/-Linux-orange) ![Python](https://img.shields.io/badge/-Pyhton-blue)![ROS](https://img.shields.io/badge/ros-orange)
+
 
 * 🛸&#160; ![DP](https://img.shields.io/badge/DynamicProgramming-Optimal-blue) ![POMDP](https://img.shields.io/badge/POMDP-green) ![RL](https://img.shields.io/badge/Reinforcement%20Learning-blue)
 
