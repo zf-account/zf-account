@@ -1,13 +1,32 @@
-### Yoo, I'm Hays Chan 👋
+### Yoo, I'm Aitotra 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/zf-account)
 
-- 🍻 Master at 🇨🇳 [BUAA](https://www.buaa.edu.cn/), _MEng in traffic transportation_
+
+- 🌱 Master at 🇨🇳 [BUAA](https://www.buaa.edu.cn/), _MEng in traffic transportation_
+
+- 🍻 Open Source enthusiast.
+
 - ⚡ C++ / Python.
-- ✍️ [Blogger]([https://haysc.tech](https://blog.csdn.net/m0_55127902?spm=1000.2115.3001.5343))
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zf-account)]()
+- ⚡ Autonomous driving decision and planning
+
+- ✍️ [Blogger](https://blog.csdn.net/m0_55127902?spm=1000.2115.3001.5343)
+
+
+
+### Tech Stack
+
+* 💻&#160; ![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey) ![Linux](https://img.shields.io/badge/-Linux-orange) ![Python](https://img.shields.io/badge/-Pyhton-blue)
+
+* 🛸&#160; ![DP](https://img.shields.io/badge/DynamicProgramming-Optimal-blue) ![POMDP](https://img.shields.io/badge/POMDP-green) ![RL](https://img.shields.io/badge/Reinforcement%20Learning-blue)
+
+* 👨🏽‍💻&#160;![Git](https://img.shields.io/badge/-Git-blue) ![GitHub](https://img.shields.io/badge/-GitHub-red) ![Markdown](https://img.shields.io/badge/-Markdown-blue)
+
+<p align="left">
+<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=zf-account&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+
+
+### How to contact me
+
+* 📫email : aitotra@outlook.com
