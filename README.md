@@ -10,6 +10,8 @@
 - ⚡ C++ / Python.
 
 - ⚡ Autonomous driving decision and planning; End-to-end Autonomous Driving
+  
+- ⚡ LLM fine-tune; LLM/VLM application
 
 - ✍️ [Blogger](https://zf-account.github.io/)
 
