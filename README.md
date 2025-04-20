@@ -1,5 +1,8 @@
-### Yoo, I'm Aitotra 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=DA70D6,8A2BE2,BA55D3&background=1A0025&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Aitotra+!" alt="Typing SVG" />
+</a>
 
+### About me 👋
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/zf-account)
 
 
