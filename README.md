@@ -16,6 +16,8 @@
   
 - ⚡ LLM fine-tune; LLM/VLM application
 
+- ⚡ Quantitative Trading
+
 - ✍️ [Blogger](https://zf-account.github.io/)
 
 
